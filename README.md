@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 说明：这个是基于xterm.js和websocket的react命令行终端demo
 
+下载以后，npm install  ,然后  npm start 即可
+
 ## Available Scripts
 
 In the project directory, you can run:
