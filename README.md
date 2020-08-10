@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+说明：这个是基于xterm.js和websocket的react命令行终端demo
 
 ## Available Scripts
 
