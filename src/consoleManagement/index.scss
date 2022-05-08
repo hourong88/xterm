@@ -1,0 +1,22 @@
+.top{
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.termContainer {
+    margin-top: 15px;
+    width: 70%;
+    margin-left: 15%;
+    ::-webkit-scrollbar{
+        width:0;
+        height:0;
+    } 
+    .xterm {
+        position: absolute;
+        background-color: #181E29;
+        padding: 35px 35px 60px 35px;
+        overflow: hidden;
+        left:15%;
+        width: 70%;
+        height: calc(100vh - 200px);
+    }
+}
