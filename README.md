@@ -17,10 +17,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 **相关文档：**
 https://xtermjs.org/
+
 https://xtermjs.org/docs/api/terminal/classes/terminal/
+
 https://xtermjs.org/docs/api/addons/fit/
 
 最终实现效果，类似这样的：
+
 https://xtermjs.org/blog/articles/2017-02-08-xtermjs-2.3
 
 
